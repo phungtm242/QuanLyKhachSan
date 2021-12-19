@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>D:\2021\2021.IT\Chi Lan\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="conn_sv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="f_addnv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="f_addql.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="f_addvitri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="f_book_room_tour.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="f_choose_room.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="f_create_tour.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="f_book_room.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="f_doanhthu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="f_ephong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="f_hoadon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="f_listdatphong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="f_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="f_main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="f_nhanvien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="f_qlkhachsan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="f_qltour.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="f_room.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="f_tour.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="f_use_room.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="f_xuathoadon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

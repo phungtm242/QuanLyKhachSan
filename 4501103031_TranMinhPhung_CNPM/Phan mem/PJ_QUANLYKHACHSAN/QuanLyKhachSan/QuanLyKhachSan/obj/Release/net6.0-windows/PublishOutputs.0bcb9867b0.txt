@@ -1,0 +1,11 @@
+C:\Users\luand\Desktop\TL\Phan mem\Release\QuanLyKhachSan.exe
+C:\Users\luand\Desktop\TL\Phan mem\Release\QuanLyKhachSan.dll
+C:\Users\luand\Desktop\TL\Phan mem\Release\QuanLyKhachSan.deps.json
+C:\Users\luand\Desktop\TL\Phan mem\Release\QuanLyKhachSan.runtimeconfig.json
+C:\Users\luand\Desktop\TL\Phan mem\Release\QuanLyKhachSan.pdb
+C:\Users\luand\Desktop\TL\Phan mem\Release\System.Data.SqlClient.dll
+C:\Users\luand\Desktop\TL\Phan mem\Release\runtimes\win-arm64\native\sni.dll
+C:\Users\luand\Desktop\TL\Phan mem\Release\runtimes\win-x64\native\sni.dll
+C:\Users\luand\Desktop\TL\Phan mem\Release\runtimes\win-x86\native\sni.dll
+C:\Users\luand\Desktop\TL\Phan mem\Release\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\luand\Desktop\TL\Phan mem\Release\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

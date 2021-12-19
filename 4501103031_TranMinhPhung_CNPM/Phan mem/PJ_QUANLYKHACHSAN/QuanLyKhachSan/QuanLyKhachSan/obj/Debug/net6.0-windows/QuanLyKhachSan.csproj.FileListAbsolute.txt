@@ -1,0 +1,127 @@
+D:\2021\2021.IT\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\net6.0-windows\QuanLyKhachSan.exe
+D:\2021\2021.IT\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\net6.0-windows\QuanLyKhachSan.deps.json
+D:\2021\2021.IT\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\net6.0-windows\QuanLyKhachSan.runtimeconfig.json
+D:\2021\2021.IT\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\net6.0-windows\QuanLyKhachSan.dll
+D:\2021\2021.IT\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\net6.0-windows\ref\QuanLyKhachSan.dll
+D:\2021\2021.IT\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\net6.0-windows\QuanLyKhachSan.pdb
+D:\2021\2021.IT\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.csproj.AssemblyReference.cache
+D:\2021\2021.IT\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.csproj.GenerateResource.cache
+D:\2021\2021.IT\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.GeneratedMSBuildEditorConfig.editorconfig
+D:\2021\2021.IT\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.AssemblyInfoInputs.cache
+D:\2021\2021.IT\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.AssemblyInfo.cs
+D:\2021\2021.IT\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\2021\2021.IT\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.dll
+D:\2021\2021.IT\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\ref\QuanLyKhachSan.dll
+D:\2021\2021.IT\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.pdb
+D:\2021\2021.IT\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.genruntimeconfig.cache
+D:\2021\2021.IT\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.f_login.resources
+D:\2021\2021.IT\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.Properties.Resources.resources
+D:\2021\2021.IT\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.f_main.resources
+D:\2021\2021.IT\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.f_room.resources
+D:\2021\2021.IT\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.f_book_room.resources
+D:\2021\2021.IT\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.f_use_room.resources
+D:\2021\2021.IT\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.f_create_tour.resources
+D:\2021\2021.IT\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.f_book_room_tour.resources
+D:\2021\2021.IT\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.f_tour.resources
+D:\2021\2021.IT\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.conn_sv.resources
+D:\2021\2021.IT\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\2021\2021.IT\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\2021\2021.IT\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\2021\2021.IT\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\2021\2021.IT\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\2021\2021.IT\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\2021\2021.IT\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.csproj.CopyComplete
+D:\2021\2021.IT\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.f_nhanvien.resources
+D:\2021\2021.IT\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.f_addnv.resources
+D:\2021\2021.IT\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.f_listdatphong.resources
+D:\2021\2021.IT\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.f_addvitri.resources
+D:\2021\2021.IT\Chi Lan\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\net6.0-windows\QuanLyKhachSan.exe
+D:\2021\2021.IT\Chi Lan\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\net6.0-windows\QuanLyKhachSan.deps.json
+D:\2021\2021.IT\Chi Lan\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\net6.0-windows\QuanLyKhachSan.runtimeconfig.json
+D:\2021\2021.IT\Chi Lan\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\net6.0-windows\QuanLyKhachSan.dll
+D:\2021\2021.IT\Chi Lan\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\net6.0-windows\ref\QuanLyKhachSan.dll
+D:\2021\2021.IT\Chi Lan\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\net6.0-windows\QuanLyKhachSan.pdb
+D:\2021\2021.IT\Chi Lan\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\2021\2021.IT\Chi Lan\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\2021\2021.IT\Chi Lan\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\2021\2021.IT\Chi Lan\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\2021\2021.IT\Chi Lan\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\2021\2021.IT\Chi Lan\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\2021\2021.IT\Chi Lan\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.csproj.AssemblyReference.cache
+D:\2021\2021.IT\Chi Lan\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.conn_sv.resources
+D:\2021\2021.IT\Chi Lan\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.f_addnv.resources
+D:\2021\2021.IT\Chi Lan\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.f_addvitri.resources
+D:\2021\2021.IT\Chi Lan\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.f_book_room.resources
+D:\2021\2021.IT\Chi Lan\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.f_book_room_tour.resources
+D:\2021\2021.IT\Chi Lan\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.f_create_tour.resources
+D:\2021\2021.IT\Chi Lan\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.f_listdatphong.resources
+D:\2021\2021.IT\Chi Lan\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.f_login.resources
+D:\2021\2021.IT\Chi Lan\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.f_main.resources
+D:\2021\2021.IT\Chi Lan\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.f_nhanvien.resources
+D:\2021\2021.IT\Chi Lan\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.f_room.resources
+D:\2021\2021.IT\Chi Lan\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.f_tour.resources
+D:\2021\2021.IT\Chi Lan\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.f_use_room.resources
+D:\2021\2021.IT\Chi Lan\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.Properties.Resources.resources
+D:\2021\2021.IT\Chi Lan\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.csproj.GenerateResource.cache
+D:\2021\2021.IT\Chi Lan\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.GeneratedMSBuildEditorConfig.editorconfig
+D:\2021\2021.IT\Chi Lan\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.AssemblyInfoInputs.cache
+D:\2021\2021.IT\Chi Lan\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.AssemblyInfo.cs
+D:\2021\2021.IT\Chi Lan\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\2021\2021.IT\Chi Lan\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.csproj.CopyComplete
+D:\2021\2021.IT\Chi Lan\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.dll
+D:\2021\2021.IT\Chi Lan\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\ref\QuanLyKhachSan.dll
+D:\2021\2021.IT\Chi Lan\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.pdb
+D:\2021\2021.IT\Chi Lan\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.genruntimeconfig.cache
+D:\2021\2021.IT\Chi Lan\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.f_choose_room.resources
+D:\2021\2021.IT\Chi Lan\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.f_ephong.resources
+D:\2021\2021.IT\Chi Lan\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.f_qlkhachsan.resources
+D:\2021\2021.IT\Chi Lan\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.f_qltour.resources
+D:\2021\2021.IT\Chi Lan\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.f_xuathoadon.resources
+D:\2021\2021.IT\Chi Lan\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.f_hoadon.resources
+D:\2021\2021.IT\Chi Lan\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.f_doanhthu.resources
+D:\2021\2021.IT\Chi Lan\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.f_addql.resources
+C:\Users\luand\Desktop\TL\Phan mem\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\net6.0-windows\QuanLyKhachSan.exe
+C:\Users\luand\Desktop\TL\Phan mem\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\net6.0-windows\QuanLyKhachSan.deps.json
+C:\Users\luand\Desktop\TL\Phan mem\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\net6.0-windows\QuanLyKhachSan.runtimeconfig.json
+C:\Users\luand\Desktop\TL\Phan mem\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\net6.0-windows\QuanLyKhachSan.dll
+C:\Users\luand\Desktop\TL\Phan mem\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\net6.0-windows\ref\QuanLyKhachSan.dll
+C:\Users\luand\Desktop\TL\Phan mem\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\net6.0-windows\QuanLyKhachSan.pdb
+C:\Users\luand\Desktop\TL\Phan mem\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\luand\Desktop\TL\Phan mem\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\luand\Desktop\TL\Phan mem\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\luand\Desktop\TL\Phan mem\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\luand\Desktop\TL\Phan mem\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\luand\Desktop\TL\Phan mem\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\luand\Desktop\TL\Phan mem\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.csproj.AssemblyReference.cache
+C:\Users\luand\Desktop\TL\Phan mem\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.conn_sv.resources
+C:\Users\luand\Desktop\TL\Phan mem\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.f_addnv.resources
+C:\Users\luand\Desktop\TL\Phan mem\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.f_addql.resources
+C:\Users\luand\Desktop\TL\Phan mem\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.f_addvitri.resources
+C:\Users\luand\Desktop\TL\Phan mem\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.f_book_room.resources
+C:\Users\luand\Desktop\TL\Phan mem\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.f_book_room_tour.resources
+C:\Users\luand\Desktop\TL\Phan mem\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.f_choose_room.resources
+C:\Users\luand\Desktop\TL\Phan mem\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.f_create_tour.resources
+C:\Users\luand\Desktop\TL\Phan mem\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.f_doanhthu.resources
+C:\Users\luand\Desktop\TL\Phan mem\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.f_ephong.resources
+C:\Users\luand\Desktop\TL\Phan mem\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.f_hoadon.resources
+C:\Users\luand\Desktop\TL\Phan mem\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.f_listdatphong.resources
+C:\Users\luand\Desktop\TL\Phan mem\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.f_login.resources
+C:\Users\luand\Desktop\TL\Phan mem\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.f_main.resources
+C:\Users\luand\Desktop\TL\Phan mem\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.f_nhanvien.resources
+C:\Users\luand\Desktop\TL\Phan mem\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.f_qlkhachsan.resources
+C:\Users\luand\Desktop\TL\Phan mem\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.f_qltour.resources
+C:\Users\luand\Desktop\TL\Phan mem\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.f_room.resources
+C:\Users\luand\Desktop\TL\Phan mem\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.f_tour.resources
+C:\Users\luand\Desktop\TL\Phan mem\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.f_use_room.resources
+C:\Users\luand\Desktop\TL\Phan mem\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.f_xuathoadon.resources
+C:\Users\luand\Desktop\TL\Phan mem\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.Properties.Resources.resources
+C:\Users\luand\Desktop\TL\Phan mem\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\luand\Desktop\TL\Phan mem\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luand\Desktop\TL\Phan mem\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.AssemblyInfoInputs.cache
+C:\Users\luand\Desktop\TL\Phan mem\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.AssemblyInfo.cs
+C:\Users\luand\Desktop\TL\Phan mem\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\luand\Desktop\TL\Phan mem\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.csproj.CopyComplete
+C:\Users\luand\Desktop\TL\Phan mem\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.dll
+C:\Users\luand\Desktop\TL\Phan mem\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\ref\QuanLyKhachSan.dll
+C:\Users\luand\Desktop\TL\Phan mem\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.pdb
+C:\Users\luand\Desktop\TL\Phan mem\PJ_QUANLYKHACHSAN\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\net6.0-windows\QuanLyKhachSan.genruntimeconfig.cache
